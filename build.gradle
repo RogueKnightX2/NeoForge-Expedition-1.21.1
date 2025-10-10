@@ -121,6 +121,8 @@ dependencies {
     implementation files("libs/player-animation-lib-forge-2.0.1+1.21.1.jar")
     implementation files("libs/curios-neoforge-9.5.1+1.21.1.jar")
     implementation files("libs/geckolib-neoforge-1.21.1-4.8.2.jar")
+    implementation files("libs/moonlight-1.21-2.24.0-neoforge.jar")
+    implementation files("libs/supplementaries-1.21-3.4.16-neoforge.jar")
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"
